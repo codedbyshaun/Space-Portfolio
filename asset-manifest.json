@@ -1,20 +1,23 @@
 {
   "files": {
     "main.css": "/Space-Portfolio/static/css/main.f69d1e56.css",
-    "main.js": "/Space-Portfolio/static/js/main.b60bd980.js",
+    "main.js": "/Space-Portfolio/static/js/main.34d0b53a.js",
     "static/js/787.b94b10c7.chunk.js": "/Space-Portfolio/static/js/787.b94b10c7.chunk.js",
     "static/media/color-sharp.png": "/Space-Portfolio/static/media/color-sharp.bea361cfef80fefc2d1e.png",
     "static/media/color-sharp2.png": "/Space-Portfolio/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
+    "static/media/project-img5.png": "/Space-Portfolio/static/media/project-img5.783ce4958b20374b8164.png",
     "static/media/banner-bg.png": "/Space-Portfolio/static/media/banner-bg.cc1273af450504afe755.png",
     "static/media/header-img.svg": "/Space-Portfolio/static/media/header-img.84bf93eb20488a753440bf83d27db7bb.svg",
     "static/media/CentraNo2-Bold.ttf": "/Space-Portfolio/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
     "static/media/CentraNo2-Medium.ttf": "/Space-Portfolio/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
     "static/media/CentraNo2-Book.ttf": "/Space-Portfolio/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
     "static/media/project-img1.png": "/Space-Portfolio/static/media/project-img1.d593db3f12901bc685c2.png",
+    "static/media/project-img6.jpg": "/Space-Portfolio/static/media/project-img6.ff463436f2dde2a3c4c0.jpg",
     "static/media/footer-bg.png": "/Space-Portfolio/static/media/footer-bg.7bd67c0f73571d0acc02.png",
     "static/media/project-img2.png": "/Space-Portfolio/static/media/project-img2.2e52097c417f9f1134b0.png",
     "static/media/project-img3.png": "/Space-Portfolio/static/media/project-img3.675b30d2f975a1bc1d09.png",
     "static/media/contact-img.svg": "/Space-Portfolio/static/media/contact-img.87eac2b29352fa01abb2f9510ef6ac7e.svg",
+    "static/media/project-img4.jpeg": "/Space-Portfolio/static/media/project-img4.ff2d38e0ec7362cb2fb1.jpeg",
     "static/media/revicons.eot": "/Space-Portfolio/static/media/revicons.a77de540a38981833f9e.eot",
     "static/media/revicons.ttf": "/Space-Portfolio/static/media/revicons.57fd05d4ae650374c8de.ttf",
     "static/media/revicons.woff": "/Space-Portfolio/static/media/revicons.e8746a624ed098489406.woff",
@@ -27,11 +30,11 @@
     "static/media/nav-icon1.svg": "/Space-Portfolio/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
     "static/media/nav-icon2.svg": "/Space-Portfolio/static/media/nav-icon2.178f497aa17b70c42df2a1a8c926ed01.svg",
     "main.f69d1e56.css.map": "/Space-Portfolio/static/css/main.f69d1e56.css.map",
-    "main.b60bd980.js.map": "/Space-Portfolio/static/js/main.b60bd980.js.map",
+    "main.34d0b53a.js.map": "/Space-Portfolio/static/js/main.34d0b53a.js.map",
     "787.b94b10c7.chunk.js.map": "/Space-Portfolio/static/js/787.b94b10c7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f69d1e56.css",
-    "static/js/main.b60bd980.js"
+    "static/js/main.34d0b53a.js"
   ]
 }
