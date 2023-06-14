@@ -1,15 +1,15 @@
-import { useState, useEffect } from "react";
-import { Col, Row, Alert } from "react-bootstrap";
+import { useState, useEffect } from "react"
+import { Col, Row, Alert } from "react-bootstrap"
 
 export const Newsletter = ({ status, message, onValidated }) => {
-  const [email, setEmail] = useState('');
+  const [email, setEmail] = useState('')
 
   useEffect(() => {
-    if (status === 'success') clearFields();
+    if (status === 'success') clearFields()
   }, [status])
 
   const handleSubmit = (e) => {
-    e.preventDefault();
+    e.preventDefault()
     email &&
     email.indexOf("@") > -1 &&
     onValidated({
@@ -18,7 +18,7 @@ export const Newsletter = ({ status, message, onValidated }) => {
   }
 
   const clearFields = () => {
-    setEmail('');
+    setEmail('')
   }
 
   return (
@@ -26,7 +26,7 @@ export const Newsletter = ({ status, message, onValidated }) => {
         <div className="newsletter-bx wow slideInUp">
           <Row>
             <Col lg={12} md={6} xl={5}>
-              <h3>Subscribe to our Newsletter<br></br> & Never miss latest updates</h3>
+              <h3>Subscribe to my Newsletter<br></br> & never miss an update!</h3>
               {status === 'sending' && <Alert>Sending...</Alert>}
               {status === 'error' && <Alert variant="danger">{message}</Alert>}
               {status === 'success' && <Alert variant="success">{message}</Alert>}
